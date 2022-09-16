@@ -1,9 +1,8 @@
 <div align="center">
-Olá, me chamo Pedro Oliveira!
+  <h1>Olá, me chamo Pedro Oliveira!<h1>
 </div>
 
 Estudo Python e ciência de dados.
-##
 
 <div align="center">
   <a href="https://instagram.com/oliveiraism" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

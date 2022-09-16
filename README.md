@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Oliveiraism
-- 👀 I’m interested in learning basic programing skills
-- 🌱 I’m currently learning Python and Git
+Olá, Me chamo Pedro Oliveira!
 
-Feel free to colaborate, i'm very noob on this.
+Estudo Python e ciência de dados.
+##
